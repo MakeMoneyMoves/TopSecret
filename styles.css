@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-size: x-large;
+    color: white;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold; margin: 0;
+    padding: 25px;
+    max-height: 195px;
+    max-width: 195px;
+    border-radius: 50%;
+}
+
+#main{
+    color: white;
+    display: block;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: bold; margin: 0;
+    text-align: center;
+}
